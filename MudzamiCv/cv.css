@@ -1,0 +1,60 @@
+#surname {
+    text-align: center;
+}
+
+.it {
+    text-indent: 1rem;
+}
+
+.btn {
+    text-align: center;
+}
+
+.about {
+    border-style: solid;
+    border-style: double;
+    border-radius: 1rem;
+    text-align: center;
+    padding-right: 0px;
+    margin: 0px;
+}
+
+.bod {
+    border-style: inset;
+    border-radius: 2rem;
+    margin: 5%;
+    background-color: grey;
+}
+
+.prifle {
+    margin: 4rem;
+    background-color: transparent;
+    background-color: rgba(219, 215, 224, 0.7);
+    box-shadow: 5px 5px 25px white;
+    border-radius: 5px;
+    align: center;
+    opacity: 50%;
+}
+
+.tan {
+    padding-left: 10px;
+}
+
+.person {
+    list-style: square;
+}
+
+.me {
+    font-size: xx-large;
+}
+
+li {
+    list-style: square;
+}
+
+table {}
+
+.img {
+    padding-top: 1rem;
+    margin-top: 16rem;
+}
